@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 
 # the output files
-output/*
+output/cubes/*
